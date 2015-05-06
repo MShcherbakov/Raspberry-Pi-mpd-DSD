@@ -39,15 +39,13 @@ apt-get install apt-get install g++ \
 
 wget http://www.musicpd.org/download/mpd/0.19/mpd-0.19.9.tar.xz
 
-
 Для запуска mpd после загрузки добавить строку в /etc/rc.local
 sudo -u pi mpd
-
 
 Чтобы исключить запуск mpd как сервис в файле
 /etc/init.d/mpd
 установить значение переменной
 START_MPD=false
 
-
+В качестве клиента ставим  ncmpcpp
 
