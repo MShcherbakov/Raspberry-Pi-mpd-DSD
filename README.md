@@ -2,6 +2,7 @@
 
 ## Links
 
+https://sites.google.com/site/onmyraspberrypi/instal-pi/jessie
 http://raspberrypi.stackexchange.com/questions/27858/upgrade-to-raspbian-jessie
 
 [MPD Compiling from source](http://www.musicpd.org/doc/user/install_source.html)
