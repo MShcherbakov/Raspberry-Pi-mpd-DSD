@@ -2,12 +2,10 @@
 
 ## Links
 
-https://sites.google.com/site/onmyraspberrypi/instal-pi/jessie
-http://raspberrypi.stackexchange.com/questions/27858/upgrade-to-raspbian-jessie
-
-[MPD Compiling from source](http://www.musicpd.org/doc/user/install_source.html)
-[Local Configuration (per user)](https://wiki.archlinux.org/index.php/Music_Player_Daemon#Changing_user)
-[MPD & Teac UD-501](http://guillaumeplayground.net/mpd-teac-ud-501/)
+- [Raspbian GNU/Linux upgrade from Wheezy to Raspbian Jessie 8](http://linuxconfig.org/raspbian-gnu-linux-upgrade-from-wheezy-to-raspbian-jessie-8)
+- [MPD Compiling from source](http://www.musicpd.org/doc/user/install_source.html)
+- [Local Configuration (per user)](https://wiki.archlinux.org/index.php/Music_Player_Daemon#Changing_user)
+- [MPD & Teac UD-501](http://guillaumeplayground.net/mpd-teac-ud-501/)
 
 ## Raspbian (Debian Wheezy)
 
