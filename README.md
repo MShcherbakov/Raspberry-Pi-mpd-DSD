@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Multiroom audio experiment](http://www.vleeuwen.net/2014/08/multiroom-audio-experiment)
 - [Raspbian GNU/Linux upgrade from Wheezy to Raspbian Jessie 8](http://linuxconfig.org/raspbian-gnu-linux-upgrade-from-wheezy-to-raspbian-jessie-8)
 - [MPD Compiling from source](http://www.musicpd.org/doc/user/install_source.html)
 - [Local Configuration (per user)](https://wiki.archlinux.org/index.php/Music_Player_Daemon#Changing_user)
