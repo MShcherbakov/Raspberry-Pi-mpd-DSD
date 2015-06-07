@@ -52,3 +52,8 @@ START_MPD=false
 
 В качестве клиента ставим  ncmpcpp
 
+https://help.ubuntu.com/community/MountingWindowsPartitions
+
+
+http://www.nexthardware.com/forum/cmp2-cmp-cplay/84235-hqplayer-dff-dsf.html
+http://www.signalyst.com/professional.html
