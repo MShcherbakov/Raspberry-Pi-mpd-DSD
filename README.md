@@ -2,6 +2,7 @@
 
 ## Links
 
+- [ ympd start script](https://gist.github.com/zoide/feb3f207403d5fb642b2)
 - [Multiroom audio experiment](http://www.vleeuwen.net/2014/08/multiroom-audio-experiment)
 - [Raspbian GNU/Linux upgrade from Wheezy to Raspbian Jessie 8](http://linuxconfig.org/raspbian-gnu-linux-upgrade-from-wheezy-to-raspbian-jessie-8)
 - [MPD Compiling from source](http://www.musicpd.org/doc/user/install_source.html)
@@ -52,3 +53,8 @@ START_MPD=false
 
 В качестве клиента ставим  ncmpcpp
 
+https://help.ubuntu.com/community/MountingWindowsPartitions
+
+
+http://www.nexthardware.com/forum/cmp2-cmp-cplay/84235-hqplayer-dff-dsf.html
+http://www.signalyst.com/professional.html
