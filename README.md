@@ -2,7 +2,7 @@
 
 ## Links
 
-- [ ympd start script](https://gist.github.com/zoide/feb3f207403d5fb642b2)
+- [ympd start script](https://gist.github.com/zoide/feb3f207403d5fb642b2)
 - [Multiroom audio experiment](http://www.vleeuwen.net/2014/08/multiroom-audio-experiment)
 - [Raspbian GNU/Linux upgrade from Wheezy to Raspbian Jessie 8](http://linuxconfig.org/raspbian-gnu-linux-upgrade-from-wheezy-to-raspbian-jessie-8)
 - [MPD Compiling from source](http://www.musicpd.org/doc/user/install_source.html)
